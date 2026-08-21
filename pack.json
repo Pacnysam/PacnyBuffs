@@ -1,0 +1,9 @@
+{
+    "Name": "Cool Buffs",
+    "Author": "Pacnysam",
+    "Description": "Resprites buff icons prioritizing readability and simplicity.\n \nInspired by minecraft's buffs and sabifoil's old texture pack",
+    "Version": {
+        "major": 0,
+        "minor": 1
+    }
+}
